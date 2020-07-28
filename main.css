@@ -1,0 +1,20 @@
+#tasksDiv {	
+	height:auto; 
+	text-align: center; 
+	padding: 20px; 
+	width: 50%; 
+	margin: auto;
+	display: block;
+}
+#tasksDiv div {
+	height:auto; 
+	border: 2px solid; 
+	text-align: center; 
+	padding: 20px;
+	margin: auto;
+}
+
+#tasksDiv div p{
+
+	display: inline;
+}
